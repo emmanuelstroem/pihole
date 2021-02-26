@@ -3,6 +3,13 @@ ngfts.lge.com
 smartclip.com
 smartclip.net
 yumenetworks.com
-(\w+)?.(\w+)?.?lgtvsdp.com
-(\w+)?.(\w+)?.?lgsmartad.com
-(\w+)?.(\w+)?.?lgappstv.com
+
+lgtvsdp.com
+smartshare.lgtvsdp.com
+rdx2.lgtvsdp.com
+
+lgsmartad.com
+info.lgsmartad.com
+
+lgappstv.com
+ibs.lgappstv.com
